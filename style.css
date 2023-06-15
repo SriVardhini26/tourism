@@ -1,0 +1,137 @@
+.bg-container {
+    background-image: url("https://images.pexels.com/photos/459252/pexels-photo-459252.jpeg?cs=srgb&dl=sea-landscape-nature-459252.jpg&fm=jpg");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.tourism-card {
+    text-align: center;
+    padding: 5px;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+
+}
+
+.trip {
+    color: black;
+}
+
+.tour {
+    font-weight: bold;
+    color: blue;
+    font-size: 40px;
+}
+
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.fav-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 135vh;
+    background-size: cover;
+}
+
+.h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding: 24px;
+}
+
+.fav-place-card-container {
+    padding: 16px;
+    background-color: white;
+    border-radius: 8px;
+    margin: 15px;
+}
+
+.h2 {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.p1 {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.fav-place-card-image {
+    width: 80px;
+    height: 100px;
+}
+
+.button1 {
+    margin-left: 5px;
+    border-radius: 12px;
+}
+
+.detailed-view-bg-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 107vh;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 24px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 20px;
+}
+
+.paragraph {
+    color: #6c6b70;
+    font-family: "Roboto";
+    padding: 8px;
+}
+
+.detailed-view-card-text-container {
+    padding: 2px;
+}
+
+.detailed-view-bg-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 119vh;
+    background-size: cover;
+}
+
+.detailed-view-bg-container3 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 120vh;
+    background-size: cover;
+}
+
+.detailed-view-bg-container4 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 122vh;
+    background-size: cover;
+
+
